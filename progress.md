@@ -13,5 +13,5 @@ Running log of problems solved, in order. Update this as you go — it doubles a
 | 2026-07-04 | Merge Two Sorted Lists | Linked Lists | Easy | [topics/linked-lists/merge-two-sorted-lists.py](topics/linked-lists/merge-two-sorted-lists.py) |
 | 2026-07-04 | Number of Islands | Graphs | Medium | [topics/graphs/number-of-islands.py](topics/graphs/number-of-islands.py) |
 | 2026-07-04 | Rotate Array | Arrays & Hashing | Medium | [topics/arrays-hashing/rotate-array.py](topics/arrays-hashing/rotate-array.py) |
-
+| 2026-07-05 | First Unique Character in a String | Arrays & Hashing | Easy | [topics/arrays-hashing/first-unique-character-in-a-string.py](topics/arrays-hashing/first-unique-character-in-a-string.py) |
 *(Backdate/adjust entries to match your actual solve dates before pushing, or just keep adding new rows going forward.)*
