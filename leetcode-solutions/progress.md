@@ -25,5 +25,7 @@ Note: SQL problems (e.g. Combine Two Tables, Second Highest Salary) are tracked 
 | 2026-07-02 | Koko Eating Bananas | Binary Search | Medium | [topics/binary-search/koko-eating-bananas.py](topics/binary-search/koko-eating-bananas.py) |
 | 2026-07-04 | Maximum Subarray | Dynamic Programming | Medium | [topics/dp/maximum-subarray.py](topics/dp/maximum-subarray.py) |
 | 2026-07-05 | Rotate Array | Arrays & Hashing | Medium | [topics/arrays-hashing/rotate-array.py](topics/arrays-hashing/rotate-array.py) |
-
+| 2026-07-08 | Fibonacci Number | Dynamic Programming | Easy | [topics/dp/fibonacci-number.py](topics/dp/fibonacci-number.py) |
+| 2026-07-08 | Unique Paths | Dynamic Programming | Medium | [topics/dp/unique-paths.py](topics/dp/unique-paths.py) |
+| 2026-07-08 | Coin Change | Dynamic Programming | Medium | [topics/dp/coin-change.py](topics/dp/coin-change.py) |
 *(Backdate/adjust entries to match your actual solve dates before pushing, or just keep adding new rows going forward.)*
