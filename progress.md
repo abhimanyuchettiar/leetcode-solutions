@@ -16,4 +16,5 @@ Running log of problems solved, in order. Update this as you go — it doubles a
 | 2026-07-05 | First Unique Character in a String | Arrays & Hashing | Easy | [topics/arrays-hashing/first-unique-character-in-a-string.py](topics/arrays-hashing/first-unique-character-in-a-string.py) |
 | 2026-07-06 | Max Area of Island | Graphs | Medium | [topics/graphs/max-area-of-island.py](topics/graphs/max-area-of-island.py) |
 | 2026-07-07 | House Robber | Dynamic Programming | Medium | [topics/dp/house-robber.py](topics/dp/house-robber.py) |
+| 2026-07-10 | Path Sum | Trees | Easy | [topics/trees/path-sum.py](topics/trees/path-sum.py) |
 *(Backdate/adjust entries to match your actual solve dates before pushing, or just keep adding new rows going forward.)*
