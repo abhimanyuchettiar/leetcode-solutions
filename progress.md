@@ -17,4 +17,5 @@ Running log of problems solved, in order. Update this as you go — it doubles a
 | 2026-07-06 | Max Area of Island | Graphs | Medium | [topics/graphs/max-area-of-island.py](topics/graphs/max-area-of-island.py) |
 | 2026-07-07 | House Robber | Dynamic Programming | Medium | [topics/dp/house-robber.py](topics/dp/house-robber.py) |
 | 2026-07-10 | Path Sum | Trees | Easy | [topics/trees/path-sum.py](topics/trees/path-sum.py) |
+| 2026-07-11 | Sort Colors | Two Pointers | Medium | [topics/two-pointers/sort-colors.py](topics/two-pointers/sort-colors.py) |
 *(Backdate/adjust entries to match your actual solve dates before pushing, or just keep adding new rows going forward.)*
